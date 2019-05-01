@@ -1,7 +1,12 @@
 # template-0
+Basic local jar setup for a/v clojure coding.
 
-A Clojure app to ... well, that part is up to you.
+Includes Processing and Beads Project.
 
-## Usage
+Intended for quick templates in the Nightcode IDE.
 
-FIXME
+
+https://processing.org/
+
+http://www.beadsproject.net/
+
